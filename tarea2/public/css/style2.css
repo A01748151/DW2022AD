@@ -1,0 +1,26 @@
+#uno{
+    /* background-color: rgb(0, 7, 7); */
+    font-size: 40px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant-numeric: slashed-zero;
+    text-align:center;
+    color: blue;
+    background: #e5e5e5;
+}
+#dos{
+    text-align: center;
+}
+
+#tres{
+    background-color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+#cuatro{
+    font-size: 25px;
+    text-align: center;
+}
